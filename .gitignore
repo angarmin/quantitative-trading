@@ -5,3 +5,4 @@ notebooks/.ipynb_checkpoints/
 src/__pycache__/
 src/data_api/__pycache__/
 src/data_api/connections/__pycache__/
+.ipynb_checkpoints/
